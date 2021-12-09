@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+    border: 2px solid blueviolet;
+
+}
+.parent>.card{
+    padding: 1%;
+    margin: 1%;
+    border: 1px solid rgb(238, 8, 46);
+    width: 20%;
+    background: plum;
+    align-content: center;
+   
+}
